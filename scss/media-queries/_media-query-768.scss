@@ -1,0 +1,89 @@
+
+@media(max-width: 768px) {  //Adaptación para tablets
+    
+    .logoNav {
+        width: 15vw;
+        margin-left: 3vw;
+    }
+
+    .logoFooter {
+        width: 18vw;
+    }
+
+    .tituloPrincipal {
+        font-size: 3.25rem;
+        margin-top: 3vh;
+    }
+
+    .cajaDark {
+        height: 60vh;
+    }
+
+    .tituloSecundario {
+        font-size: 2.5rem;
+    }
+
+    .tituloPri {
+        font-size: 3.25rem;
+        margin-top: 3vh;        
+    }
+    
+    .caja__Titulo {
+        font-size: 1.75rem;
+    }
+    
+    .subtitulo {
+        font-size: 1.75rem;
+    }
+
+    .parrafo {
+        font-size: 1.5rem;
+    }
+
+    .tituloValores {
+        font-size: 2rem;
+    }
+
+    .valores {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .parrafoValores {
+        font-size: 1.25rem;
+    }
+
+    .titulo {
+        font-size: 2rem;
+    }
+    
+    .tituloServicio {
+        font-size: 2rem;
+    }
+
+    .serviciosFlex {
+        flex-direction:column;
+    }
+
+    .parrafoServicio {
+        font-size: 1.5rem;
+    }
+
+    .imgServicio {
+        width: 65vw;
+    }
+
+    .parrafoBlog {
+        font-size: 1.5rem;
+    }
+
+    .contactoFlex {
+        display: flex;
+        flex-direction: column;
+        margin: 15px 10px;
+    }
+
+    .cajaFormulario {
+        max-width: 80vw;
+    }
+}

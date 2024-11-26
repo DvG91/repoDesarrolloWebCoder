@@ -1,0 +1,119 @@
+//Adaptación para celular
+@media(max-width: 425px) {
+
+    .logoNav {
+        width: 20vw;
+        margin-left: 0.5vw;
+    }
+
+    .logoFooter {
+        width: 35vw;
+    }
+
+    .tituloPrincipal {
+        font-size: 1.5rem;
+        margin-top: 1vh;
+    }
+
+    .cajaDark {
+        height: 35vh;
+        padding-bottom: 1rem;
+    }
+
+    .tituloSecundario {
+        font-size: 1.3rem;
+    }
+
+    .tituloPri {
+        font-size: 1.5rem;        
+    }
+    
+    .caja__Titulo {
+        font-size: 1.25rem;
+        line-height: 1.25rem;
+    }
+
+    .caja__ImgServ {    
+        height: auto;
+        width: 80vw;
+    }
+    
+    .subtitulo {
+        font-size: 1.25rem;
+        line-height: 1.5rem;
+        margin: 5px;
+    }
+
+    .cajaPie {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .cajitaServicio {
+        width: 90vw;
+    }
+
+    .imgServicio{
+        width: 90vw;
+    }
+
+    .cajita {
+        width: 100vw;
+    }
+
+    .articulo {
+        width: 80vw;
+    }
+
+    .contenedorPilares {
+        margin: 0.25rem 1rem 1rem 1rem;
+    }
+
+    .tituloValores {
+        font-size: 1.5rem;
+        padding-bottom: 2rem;
+    }
+
+    .valores {
+        font-size: 1.25rem;
+    }
+
+    .parrafoValores {
+        font-size: 1rem;
+    }
+
+    .titulo {
+        font-size: 1.25rem;
+        line-height: 1.25rem;
+        margin: 1rem;
+    }
+
+    .tituloServicio {
+        font-size: 1.25rem;
+    }
+
+    .parrafo {
+        font-size: 1.25rem;
+    }
+
+    .parrafoServicio {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+
+    .parrafoBlog {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+
+    .contacto {
+        font-size: 14px;
+        text-align:left;
+        margin-left: 1px;
+    }
+
+    .cajaFormulario {
+        max-width: 92vw;
+    }
+}
